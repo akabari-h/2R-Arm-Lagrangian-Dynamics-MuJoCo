@@ -1,0 +1,19 @@
+# Virtual environment
+mujoco_env312/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data (can be reproduced by running simulate_2r.py)
+2r_falling_data.npz
+
+# Original project brief
+project2-1.pdf
+
+# Video (too large for GitHub)
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
