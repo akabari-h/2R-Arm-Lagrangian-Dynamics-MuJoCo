@@ -109,6 +109,8 @@ confirming rotational inertia is the sole source of discrepancy.
 
 ## Repository Structure
 
+2R-Arm-Lagrangian-Dynamics-MuJoCo/
+│
 ├── 2r_arm.xml                  # MuJoCo robot model (capsule links, lighting, floor)
 ├── simulate_2r.py              # Runs MuJoCo simulation, saves time-series data
 ├── verify_equations.py         # Substitutes data into equations, plots results
@@ -116,6 +118,7 @@ confirming rotational inertia is the sole source of discrepancy.
 ├── verification_torques.png    # Generalized force verification plot
 ├── energy_conservation.png     # Energy conservation plot
 ├── ME5250_Project2_Report.pdf  # Full project report (IEEE format)
+├── .gitignore
 └── README.md
 
 ---
