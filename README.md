@@ -109,6 +109,7 @@ confirming rotational inertia is the sole source of discrepancy.
 
 ## Repository Structure
 
+```
 2R-Arm-Lagrangian-Dynamics-MuJoCo/
 │
 ├── 2r_arm.xml                  # MuJoCo robot model (capsule links, lighting, floor)
@@ -120,6 +121,7 @@ confirming rotational inertia is the sole source of discrepancy.
 ├── ME5250_Project2_Report.pdf  # Full project report (IEEE format)
 ├── .gitignore
 └── README.md
+```
 
 ---
 
